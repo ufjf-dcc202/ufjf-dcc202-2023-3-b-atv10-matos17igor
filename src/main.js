@@ -1,2 +1,2 @@
-import { deJoaoParaMaria, getJoao, getMaria } from "../joaoEmaria.js";
+import { deJoaoParaMaria, getJoao, getMaria } from "./joaoEMaria.js";
 
